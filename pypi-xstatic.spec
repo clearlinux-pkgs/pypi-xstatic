@@ -4,7 +4,7 @@
 #
 Name     : pypi-xstatic
 Version  : 1.0.2
-Release  : 51
+Release  : 52
 URL      : https://files.pythonhosted.org/packages/36/78/c0ffaf14216517a14d3daa67ff24fbb60b4703e95ce1059a48fd508e6b8c/XStatic-1.0.2.tar.gz
 Source0  : https://files.pythonhosted.org/packages/36/78/c0ffaf14216517a14d3daa67ff24fbb60b4703e95ce1059a48fd508e6b8c/XStatic-1.0.2.tar.gz
 Summary  : XStatic base package with minimal support code
